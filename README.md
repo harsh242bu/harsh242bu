@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-A proactive individual with a solid foundation in Programming, Computer Vision, and Machine Learning, I am passionate about tackling challenging problems and driving impactful solutions. Coming from a strong multi-disciplinary perspective attributable to my undergraduate in materials science, finance acumen & research in Computer Vision. Recently graduets from a Masters in Computer Science at Boston University with a perfect GPA. I am eager to apply my knowledge in Machine Learning and Computer Vision to contribute meaningfully to innovative projects and teams.<br><br>Seeking challenging roles in Machine Learning and Computer Vision.
+A proactive individual with a solid foundation in Programming, Computer Vision, and Machine Learning, I am passionate about tackling challenging problems and driving impactful solutions. Coming from a strong multi-disciplinary perspective attributable to my undergraduate in materials science, finance acumen & research in Computer Vision. Recently graduated from a Masters in Computer Science at Boston University with a perfect GPA. I am eager to apply my knowledge in Machine Learning and Computer Vision to contribute meaningfully to innovative projects and teams.<br><br>Seeking challenging roles in Machine Learning and Computer Vision.
 
 
 ## 🌐 Socials:
